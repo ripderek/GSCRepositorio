@@ -1,0 +1,446 @@
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.config
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\bin\Debug\AppFacturacion2024.pdb
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.pdb
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\casti\source\repos\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.config
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\bin\Debug\AppFacturacion2024.pdb
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.pdb
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaProductos.resources
+C:\Users\Alexxander\Desktop\AppFacturacion2024\AppFacturacion2024\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarProductos.resources
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.config
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\bin\Debug\AppFacturacion2024.pdb
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaProductos.resources
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarProductos.resources
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.pdb
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.RegistrarFactura.resources
+C:\Users\casti\Desktop\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.EditarProductoDetalleFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.config
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\bin\Debug\AppFacturacion2024.pdb
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaProductos.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarProductos.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.EditarProductoDetalleFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.RegistrarFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV1\AppFacturacion2024\obj\Debug\AppFacturacion2024.pdb
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.config
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\AppFacturacion2024.pdb
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaProductos.resources
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarProductos.resources
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.EditarProductoDetalleFactura.resources
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.RegistrarFactura.resources
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe
+C:\Users\casti\Desktop\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.pdb
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.config
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\AppFacturacion2024.pdb
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaProductos.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarProductos.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.EditarProductoDetalleFactura.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.RegistrarFactura.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.pdb
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaFacturas.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\EnvDTE.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\stdole.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.VizualizarFactura.resources
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CopyComplete
+C:\Users\Alexxander\Desktop\DeberGCS\DeberGCS\AppFacturacion2024VVV2\AppFacturacion2024\bin\Debug\Factura.rdlc
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\Factura.rdlc
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.config
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\AppFacturacion2024.pdb
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\EnvDTE.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\stdole.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaFacturas.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaProductos.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarProductos.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.EditarProductoDetalleFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.RegistrarFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.VizualizarFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CopyComplete
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\AppFacturacion2024VVV4\AppFacturacion2024\obj\Debug\AppFacturacion2024.pdb
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\Factura.rdlc
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.config
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\AppFacturacion2024.pdb
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\EnvDTE.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\stdole.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaFacturas.resources
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaProductos.resources
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarProductos.resources
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.EditarProductoDetalleFactura.resources
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.RegistrarFactura.resources
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFactu.284AC085.Up2Date
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.pdb
+C:\Users\casti\Desktop\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.VizualizarFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\Factura.rdlc
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.config
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\AppFacturacion2024.pdb
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\EnvDTE.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\stdole.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaFacturas.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaProductos.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarProductos.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.EditarProductoDetalleFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.RegistrarFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.VizualizarFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CopyComplete
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.pdb
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\AppFacturacion2024.exe.manifest
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\bin\Debug\AppFacturacion2024.application
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.exe.manifest
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\FacturaAPP\AppFacturacion2024\obj\Debug\AppFacturacion2024.application
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\Factura.rdlc
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\AppFacturacion.exe.config
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\AppFacturacion.exe.manifest
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\AppFacturacion.application
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\AppFacturacion.exe
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\AppFacturacion.pdb
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\EnvDTE.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\stdole.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.AssemblyReference.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaClientes.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaFacturas.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.ConsultaProductos.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarClientes.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.CrearEditarProductos.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.EditarProductoDetalleFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.Form1.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.Properties.Resources.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.RegistrarFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.VizualizarFactura.resources
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.GenerateResource.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CoreCompileInputs.cache
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion.exe.manifest
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion.application
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion2024.csproj.CopyComplete
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion.exe
+C:\Users\ANNOUS SUONNA\Desktop\Facturacion GCS\REPOSITORIO GCS-LINEA DE REFERENCIA\FacturaAPPUltimo\AppFacturacion2024\obj\Debug\AppFacturacion.pdb

@@ -1,0 +1,6 @@
+<Config>
+    <Servidor>.</Servidor>
+    <NombreBaseDatos>FacturaAPP</NombreBaseDatos>
+    <Usuario>sa</Usuario>
+    <Password>12345</Password>
+</Config>
