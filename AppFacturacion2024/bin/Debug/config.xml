@@ -1,6 +1,6 @@
 <Config>
     <Servidor>.</Servidor>
-    <NombreBaseDatos>FacturaAPP</NombreBaseDatos>
+    <NombreBaseDatos>FACT2024</NombreBaseDatos>
     <Usuario>sa</Usuario>
-    <Password>12345</Password>
+    <Password>123456</Password>
 </Config>
