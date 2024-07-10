@@ -43,34 +43,67 @@ namespace AppFacturacion2024.Clases
         //Funcion para guardar la factura
         public void CrearFactura()
         {
-            ConcatenacionCadena("EXEC sp_RegistrarFactura '" + XML_Factura1 + "'");
+            //ConcatenacionCadena("EXEC sp_RegistrarFactura '" + XML_Factura1 + "'");
+            string sql = "sp_RegistrarFactura";
+            // Crear los parámetros
+            var parametros = new List<System.Data.SqlClient.SqlParameter>
+                {
+                  new System.Data.SqlClient.SqlParameter("@FacturaXml", XML_Factura1),
+             };
+            ConcatenacionCadena(sql, parametros);
         }
         public void Eliminar_Factura()
         {
-            ConcatenacionCadena("EXEC SP_EliminarFactura '" + COD_FACTURA_ + "'");
+            //ConcatenacionCadena("EXEC SP_EliminarFactura '" + COD_FACTURA_ + "'");
+            string sql = "SP_EliminarFactura";
+            // Crear los parámetros
+            var parametros = new List<System.Data.SqlClient.SqlParameter>
+                {
+                  new System.Data.SqlClient.SqlParameter("@COD_FACTURA", COD_FACTURA_),
+             };
+            ConcatenacionCadena(sql, parametros);
         }
         public void Listar_Cod_Factura()
         {
-            ConcatenacionCadena("EXEC SP_Listar_Cod_Factura");
+            ConcatenacionCadena("SP_Listar_Cod_Factura");
         }
         public DataTable Listar_Facturas()
         {
-            return Cargar_Data_Table("EXEC SP_ListarFacturas;");
+            return Cargar_Data_Table("SP_ListarFacturas;");
         }
         public string ObtenerFacturaXML(int codFactura)
         {
-            return ObtenerXML("EXEC SP_Datos_FacturaXML '" + codFactura + "'");
+            //return ObtenerXML("EXEC SP_Datos_FacturaXML '" + codFactura + "'");
+            string sql = "SP_Datos_FacturaXML";
+
+            var parametros = new List<System.Data.SqlClient.SqlParameter>
+                {
+                  new System.Data.SqlClient.SqlParameter("@CodFactura", codFactura)
+                };
+            return ObtenerXML(sql, parametros);
         }
         //funcion que devuelve la ultima factura genera por el cliente 
         public int ObtenerUltimaFactura(string CodCliente)
         {
-            return int.Parse(ObtenerXML("EXEC SP_UltimaFacturaCliete '" + CodCliente + "'"));
+            //return int.Parse(ObtenerXML("EXEC SP_UltimaFacturaCliete '" + CodCliente + "'"));
+            string sql = "SP_UltimaFacturaCliete";
+
+            var parametros = new List<System.Data.SqlClient.SqlParameter>
+                {
+                  new System.Data.SqlClient.SqlParameter("@CodigoCliente", CodCliente)
+                };
+            return int.Parse(ObtenerXML(sql, parametros));
         }
         //funcion para buscar el producto por palabra clave
         public DataTable Buscar_Factura(string Palabra_Clave)
         {
-            return Cargar_Data_Table("EXEC [SP_Buscar_Factura] '" + Palabra_Clave + "'");
-
+            //return Cargar_Data_Table("EXEC [SP_Buscar_Factura] '" + Palabra_Clave + "'");
+            string sql = "SP_Buscar_Factura";
+            var parametros = new List<System.Data.SqlClient.SqlParameter>
+             {
+                      new System.Data.SqlClient.SqlParameter("@Palabra_Clave", Palabra_Clave)
+             };
+            return Cargar_Data_Table(sql, parametros);
         }
     }
 }

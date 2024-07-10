@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\casti\\Desktop\\FacturaAPP\\",
+  "WorkspaceRootPath": "C:\\Users\\casti\\Desktop\\GSCFacturacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|c:\\users\\casti\\desktop\\facturaapp\\appfacturacion2024\\consultaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|solutionrelative:appfacturacion2024\\consultaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|c:\\users\\casti\\desktop\\gscfacturacion\\appfacturacion2024\\clases\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|solutionrelative:appfacturacion2024\\clases\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|c:\\users\\casti\\desktop\\facturaapp\\appfacturacion2024\\clases\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|solutionrelative:appfacturacion2024\\clases\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|c:\\users\\casti\\desktop\\gscfacturacion\\appfacturacion2024\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|solutionrelative:appfacturacion2024\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|c:\\users\\casti\\desktop\\facturaapp\\appfacturacion2024\\creareditarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|solutionrelative:appfacturacion2024\\creareditarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|c:\\users\\casti\\desktop\\facturaapp\\appfacturacion2024\\creareditarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|solutionrelative:appfacturacion2024\\creareditarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|c:\\users\\casti\\desktop\\facturaapp\\appfacturacion2024\\consultaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|solutionrelative:appfacturacion2024\\consultaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|c:\\users\\casti\\desktop\\gscfacturacion\\appfacturacion2024\\clases\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86BD4A5-6B4C-44C2-85BD-7C3496E2DE92}|AppFacturacion2024\\AppFacturacion2024.csproj|solutionrelative:appfacturacion2024\\clases\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,69 +26,44 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConsultaClientes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\ConsultaClientes.cs",
-              "RelativeDocumentMoniker": "AppFacturacion2024\\ConsultaClientes.cs",
-              "ToolTip": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\ConsultaClientes.cs [Design]",
-              "RelativeToolTip": "AppFacturacion2024\\ConsultaClientes.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\casti\\Desktop\\GSCFacturacion\\AppFacturacion2024\\Clases\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "AppFacturacion2024\\Clases\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\casti\\Desktop\\GSCFacturacion\\AppFacturacion2024\\Clases\\ConexionBD.cs",
+              "RelativeToolTip": "AppFacturacion2024\\Clases\\ConexionBD.cs",
+              "ViewState": "AQIAACcBAAAAAAAAAAAgwDkBAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T02:46:38.666Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConsultaClientes.cs",
-              "DocumentMoniker": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\ConsultaClientes.cs",
-              "RelativeDocumentMoniker": "AppFacturacion2024\\ConsultaClientes.cs",
-              "ToolTip": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\ConsultaClientes.cs",
-              "RelativeToolTip": "AppFacturacion2024\\ConsultaClientes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T02:46:41.256Z",
+              "WhenOpened": "2024-07-10T01:42:45.655Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CrearEditarClientes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\CrearEditarClientes.cs",
-              "RelativeDocumentMoniker": "AppFacturacion2024\\CrearEditarClientes.cs",
-              "ToolTip": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\CrearEditarClientes.cs [Design]",
-              "RelativeToolTip": "AppFacturacion2024\\CrearEditarClientes.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\casti\\Desktop\\GSCFacturacion\\AppFacturacion2024\\Clases\\Productos.cs",
+              "RelativeDocumentMoniker": "AppFacturacion2024\\Clases\\Productos.cs",
+              "ToolTip": "C:\\Users\\casti\\Desktop\\GSCFacturacion\\AppFacturacion2024\\Clases\\Productos.cs",
+              "RelativeToolTip": "AppFacturacion2024\\Clases\\Productos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T04:11:53.426Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CrearEditarClientes.cs",
-              "DocumentMoniker": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\CrearEditarClientes.cs",
-              "RelativeDocumentMoniker": "AppFacturacion2024\\CrearEditarClientes.cs",
-              "ToolTip": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\CrearEditarClientes.cs",
-              "RelativeToolTip": "AppFacturacion2024\\CrearEditarClientes.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwDcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T04:12:47.03Z",
+              "WhenOpened": "2024-07-10T01:43:13.291Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\Clases\\Clientes.cs",
-              "RelativeDocumentMoniker": "AppFacturacion2024\\Clases\\Clientes.cs",
-              "ToolTip": "C:\\Users\\casti\\Desktop\\FacturaAPP\\AppFacturacion2024\\Clases\\Clientes.cs",
-              "RelativeToolTip": "AppFacturacion2024\\Clases\\Clientes.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDIAAAAWAAAA",
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\casti\\Desktop\\GSCFacturacion\\AppFacturacion2024\\Clases\\Factura.cs",
+              "RelativeDocumentMoniker": "AppFacturacion2024\\Clases\\Factura.cs",
+              "ToolTip": "C:\\Users\\casti\\Desktop\\GSCFacturacion\\AppFacturacion2024\\Clases\\Factura.cs",
+              "RelativeToolTip": "AppFacturacion2024\\Clases\\Factura.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowF0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T04:25:13.691Z",
+              "WhenOpened": "2024-07-10T02:25:09.948Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
